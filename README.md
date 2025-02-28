@@ -40,6 +40,7 @@
 <h3 style="font-size: 20px;">My Interests</h3>
 <ul style="font-size: 16px;">
   <li>Python Programming 🐍</li>
+  <li>Web Designing 🎨</li>
   <li>Statistics Fundamentals 📈</li>
   <li>Machine Learning Foundations 🤖</li>
 </ul>
